@@ -13,4 +13,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="基础篇--坐标系、角度和弧度" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnOnMeasure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="进阶篇--onMeasure" />
 </LinearLayout>

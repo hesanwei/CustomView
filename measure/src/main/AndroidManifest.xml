@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.he.measure">
+
+    /
+    <application>
+        <activity android:name=".MeasureActivity" />
+    </application>
+</manifest>
